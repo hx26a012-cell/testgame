@@ -1,0 +1,6 @@
+{
+  "name": "海洋生物レーダー爆撃ゲーム",
+  "description": "飛行機からレーダーを使って海中の生物を特定し、爆撃するシューティングゲーム。ソナー探知、多彩な兵装、深海生物との戦闘。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
